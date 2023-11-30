@@ -8,7 +8,7 @@ This project demonstrates LED control using FreeRTOS on an STM32 microcontroller
 - [Getting Started](#getting-started)
 - [How it Works](#how-it-works)
 - [Project Structure](#project-structure)
-- [License](#license)
+- 
 
 ## Requirements
 
